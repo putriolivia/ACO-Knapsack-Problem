@@ -1,5 +1,3 @@
-# KELOMPOK 9 SWARM INTELLIGENCE RB
-
 import pandas as pd
 import random
 import time
